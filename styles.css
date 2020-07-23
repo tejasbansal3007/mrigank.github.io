@@ -1,0 +1,69 @@
+.games {
+  background-image: url(game.png);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.content {
+  background-color: lightGray;
+  color: black;
+  width: 50%;
+  padding: 40px;
+  margin: 100px auto;
+}
+
+.green {
+  background-color: lightGray;
+  color: red;
+  width: 50%;
+  padding: 40px;
+  margin: 100px auto;
+}
+
+.tejas {
+  background-color: red;
+  color: darkGreen;
+}
+
+.border {
+  border: solid;
+}
+
+.big {
+  height: 120px;
+  width: 120px;
+}
+
+body {
+  font-size: 25px
+}
+
+.kanishk {
+  background-color: green;
+  color: red;
+}
+
+.blue {
+background-color: blue;
+color: black;
+}
+
+.gray {
+  background-color: lightGray;
+  color: blue;
+}
+
+.black {
+  background-color: red;
+}
+
+.mrigank {
+  background-color: darkGray;
+  color: blue;
+}
+
+.home {
+  background-image: url(home.png);
+  background-size: cover;
+  background-attachment: fixed;
+}
