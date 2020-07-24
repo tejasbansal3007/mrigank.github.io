@@ -67,3 +67,12 @@ color: black;
   background-size: cover;
   background-attachment: fixed;
 }
+
+a:hover{
+  color: #f6a623
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
